@@ -13,3 +13,7 @@ function Reset(){
     countP.innerText = count
     
 }
+function Remove(){
+    count = count - 1
+    countP.innerText = count
+}
